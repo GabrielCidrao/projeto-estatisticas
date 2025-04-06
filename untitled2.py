@@ -1,3 +1,5 @@
+#Nome Francisco Gabriel Cidrao Costa
+#Matricula 2024012995
 # -*- coding: utf-8 -*-
 """Untitled2.ipynb
 
